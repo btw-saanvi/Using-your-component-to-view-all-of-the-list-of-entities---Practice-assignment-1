@@ -24,5 +24,10 @@
     "eslint-plugin-react-refresh": "^0.4.16",
     "globals": "^15.14.0",
     "vite": "^6.0.7"
-  }
+  },
+  "description": "You are developing a digital library application. You want to display all the books on the home page. Now you want to prepare a book component and use the component to display all the data.",
+  "main": "eslint.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
